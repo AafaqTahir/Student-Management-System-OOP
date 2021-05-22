@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577653593 source:/home/afaq/Desktop/Students Management System/main.cpp
+	<iostream>
+	<iomanip>
+
